@@ -1,0 +1,3 @@
+app-text/texlive extra graphics luatex metapost science xetex l10n_ja
+app-text/texlive-core xetex
+media-libs/gd fontconfig

@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "../../../../../../../arch/amd64/no-multilib" >> /etc/portage/make.profile/parent

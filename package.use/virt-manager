@@ -1,0 +1,2 @@
+net-libs/gtk-vnc python
+net-misc/spice-gtk gtk3 python usbredir

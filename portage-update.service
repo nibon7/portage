@@ -1,0 +1,10 @@
+[Unit]
+Description=Update of Portage
+Documentation=man:emerge(1) man:portage(5)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Environment=HOME=/root
+Type=oneshot
+ExecStart=/usr/bin/emerge --sync --quiet
