@@ -3,7 +3,7 @@ Description=Daily Update of Portage
 Documentation=man:emerge(1) man:portage(5)
 
 [Timer]
-OnCalendar=12:00:00
+OnCalendar=7:00:00
 Persistent=true
 
 [Install]

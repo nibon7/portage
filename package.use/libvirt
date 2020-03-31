@@ -1,1 +1,2 @@
-app-emulation/libvirt virt-network virtfs
+app-emulation/libvirt virt-network
+net-dns/dnsmasq script

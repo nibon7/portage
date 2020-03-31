@@ -1,5 +1,0 @@
-gnome-base/gnome-control-center -gnome-online-accounts -ibus
-gnome-base/gvfs -gnome-online-accounts
-gnome-extra/evolution-data-server -gnome-online-accounts
-gnome-base/gnome-shell -ibus
-net-libs/webkit-gtk gles2 -opengl

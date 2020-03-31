@@ -7,4 +7,4 @@ Wants=network-online.target
 [Service]
 Environment=HOME=/root
 Type=oneshot
-ExecStart=/usr/bin/emerge --sync --quiet
+ExecStart=/usr/bin/emerge-webrsync -q
