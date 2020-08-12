@@ -1,0 +1,2 @@
+gnome-base/gnome-shell -ibus
+gnome-base/gnome-control-center -ibus
