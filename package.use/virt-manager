@@ -1,1 +1,3 @@
+app-emulation/libvirt virt-network
 net-misc/spice-gtk usbredir
+net-dns/dnsmasq script

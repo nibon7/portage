@@ -1,1 +1,1 @@
-net-misc/networkmanager -bluetooth -dhclient modemmanager -ncurses -ppp -wext -wifi
+net-misc/networkmanager -ppp

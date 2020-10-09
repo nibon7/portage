@@ -1,0 +1,3 @@
+dev-util/devhelp gtk-doc
+dev-libs/glib gtk-doc
+x11-libs/gtk+:3 gtk-doc
